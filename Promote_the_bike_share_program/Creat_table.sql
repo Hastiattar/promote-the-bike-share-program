@@ -1,5 +1,5 @@
 CREATE TABLE Divvy_Trips_q1 (
-  trip_id TEXT PRIMARY KEY,
+    trip_id TEXT PRIMARY KEY,
     start_time TIMESTAMP,
     end_time TIMESTAMP, 
     bikeid TEXT,
@@ -15,8 +15,8 @@ CREATE TABLE Divvy_Trips_q1 (
     day_of_week INT
 );
 
-CREATE TABLE Divvy_Trips_q2(
-  trip_id TEXT PRIMARY KEY,
+CREATE TABLE Divvy_Trips_q2 (
+    trip_id TEXT PRIMARY KEY,
     start_time TIMESTAMP,
     end_time TIMESTAMP, 
     bikeid TEXT,
@@ -31,8 +31,9 @@ CREATE TABLE Divvy_Trips_q2(
     ride_length TIME, 
     day_of_week INT
 );
+
 CREATE TABLE Divvy_Trips_q3 (
-  trip_id TEXT PRIMARY KEY,
+    trip_id TEXT PRIMARY KEY,
     start_time TIMESTAMP,
     end_time TIMESTAMP, 
     bikeid TEXT,
@@ -75,9 +76,6 @@ SET part_of_day = CASE
     ELSE 'night'
 END;
 
-
-
-
 UPDATE divvy_trips
 SET day_of_week = CASE 
     WHEN day_of_week::text = '1' THEN 'Sunday'
@@ -90,5 +88,5 @@ SET day_of_week = CASE
     ELSE day_of_week::text
 END;
 
-select *
-from divvy_trips
+SELECT *
+FROM divvy_trips;
