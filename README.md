@@ -121,19 +121,19 @@ Customers use the service more on weekends, especially on Friday and Saturday, a
 - Since subscriber activity decreases on Sunday, promotional campaigns focusing on special offers for one-day trips or annual memberships could be used to increase usage during these off-peak times.
 ### Ride Length:
 
-In general, rides under one hour are the most common for both groups. This suggests that both customers and subscribers mostly use the service for short trips. Therefore, providing incentives or offers focused on maximizing the use of short rides for new users would be beneficial.
+- In general, rides under one hour are the most common for both groups. This suggests that both customers and subscribers mostly use the service for short trips. Therefore, providing incentives or offers focused on maximizing the use of short rides for new users would be beneficial.
 ## Solutions to Increase the Number of Casual Riders:
 ### Targeted Promotions for Day Passes:
-By creating special promotions for casual riders, one-day trips can be made more attractive, while also encouraging them to consider an annual membership. For example, offering discounts or extra features for longer trips could motivate casual riders to upgrade.
+- By creating special promotions for casual riders, one-day trips can be made more attractive, while also encouraging them to consider an annual membership. For example, offering discounts or extra features for longer trips could motivate casual riders to upgrade.
 
 ### Encourage Membership Through User Behavior Analysis:
-Personalized membership offers can be designed based on casual riders' behavior. For instance, if users tend to ride more on weekends, targeted offers like discounts or added benefits for purchasing an annual membership on those days could be used.
+- Personalized membership offers can be designed based on casual riders' behavior. For instance, if users tend to ride more on weekends, targeted offers like discounts or added benefits for purchasing an annual membership on those days could be used.
 
 ### Special Services for Casual Riders:
-Offering "travel packages" with special discounts for casual riders could encourage them to use bikes more frequently, eventually leading to a higher conversion rate to annual memberships.
+- Offering "travel packages" with special discounts for casual riders could encourage them to use bikes more frequently, eventually leading to a higher conversion rate to annual memberships.
 
 ### Utilize Digital Media for Membership Promotions:
-By leveraging social media and digital advertisements, casual riders can be continuously informed about the benefits of an annual membership, guiding them towards making the switch.
+- By leveraging social media and digital advertisements, casual riders can be continuously informed about the benefits of an annual membership, guiding them towards making the switch.
 
 
 
