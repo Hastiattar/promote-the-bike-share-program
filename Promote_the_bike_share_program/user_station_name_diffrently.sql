@@ -9,7 +9,10 @@ GROUP BY
     from_station_name,
     usertype
 ORDER BY
-    count_user DESC;
+    count_user DESC
+LIMIT 50
+
+
 
 -- How many records exist for 'Customer' usertype, grouped by from station name, ordered by the count of usertype?
 SELECT 
